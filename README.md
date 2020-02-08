@@ -1,0 +1,1 @@
+Part contamination identification solution for plastic part manufacturer. Collaboration with designer [Erin Rose-Innes](https://www.erinroseinnes.com/)
